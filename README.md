@@ -32,3 +32,4 @@ Technologies Used: Python 3, SQLite3, Windows OS
 Outcome: The backup and restore process was executed successfully. All data was preserved during backup, and the restored database contained identical records to the original. This demonstrates a reliable method for disaster recovery and data integrity assurance.
 
 *OUTPUT*:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/de7f72c9-9990-47d3-8c0c-46ca2a0d4d56" />
